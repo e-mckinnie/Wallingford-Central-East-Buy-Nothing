@@ -1,6 +1,11 @@
 body {
-    font-family: sans-serif;
-    text-align: center;
     float: center;
     position: relative;
+    margin: 4% 4% 4% 4%;
+    font-family: sans-serif;
+    text-align: center;
+}
+iframe {
+    width: 70%;
+    height: 40%;
 }
